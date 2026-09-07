@@ -5,13 +5,13 @@ about:
   head: 5ae6e7a
   archived: false
   latestVersion: "v2.5.2"
-  collectedAt: 2026-09-07T05:00:01Z
+  collectedAt: 2026-09-07T19:33:34Z
 timeline:
   created: 2020-12-15
   lastCommit: 2026-05-16
   lastRelease: 2026-05-16
 popularity:
-  star: 2287
+  star: 2288
   watcher: 16
   fork: 109
   release: 63
@@ -84,7 +84,7 @@ total:
   commit: 908
 ---
 path: /home/runner/.x-repo/github.com/JohnnyMorganz/StyLua
-collectedAt: 2026-09-07T05:00:06Z
+collectedAt: 2026-09-07T19:33:36Z
 loc:
   Rust:
     code: 15663
@@ -140,7 +140,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:00:17+00:00
+  collectedAt: 2026-09-07T19:33:36+00:00
   platform:
     darwin/arm64:
       name:  stylua-macos-aarch64.zip

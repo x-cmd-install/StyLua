@@ -7,7 +7,7 @@ A Lua code formatter
 - **Latest release**: `v2.5.2` (2026-05-16)
 - **Last commit**: 2026-05-16
 - **License**: MPL-2.0
-- **Stars**: 2287 · **Forks**: 109 · **Open issues**: 553 · **Contributors**: 48
+- **Stars**: 2288 · **Forks**: 109 · **Open issues**: 553 · **Contributors**: 48
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/StyLua> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:08:37Z._
+_Last regenerated: 2026-09-09T05:01:05Z._

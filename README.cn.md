@@ -4,7 +4,7 @@
 
 A Lua code formatter
 
-![StyLua](https://repo.x-cmd.io/StyLua.svg)
+![StyLua](https://repo.x-cmd.io/StyLua.svg?lang=zh)
 
 ## 安装
 
@@ -22,23 +22,34 @@ x install StyLua
 - **最新版本**: `v2.5.2` (2026-05-16)
 - **最近提交**: 2026-05-16
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-05-16T15:52:29Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [stylua-linux-aarch64-musl.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-linux-aarch64-musl.zip) | 3.1 MiB | `native/linux/arm64/musl` |
+| [stylua-linux-aarch64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-linux-aarch64.zip) | 3.1 MiB | `native/linux/arm64` |
+| [stylua-linux-x86_64-musl.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-linux-x86_64-musl.zip) | 3.3 MiB | `native/linux/x64/musl` |
+| [stylua-linux-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-linux-x86_64.zip) | 3.2 MiB | `native/linux/x64` |
+| [stylua-macos-aarch64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-macos-aarch64.zip) | 2.9 MiB | `native/darwin/arm64` |
+| [stylua-macos-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-macos-x86_64.zip) | 3.0 MiB | `native/darwin/x64` |
+| [stylua-windows-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-windows-x86_64.zip) | 2.7 MiB | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 2,287 · **Fork**: 109 · **开放 issue**: 553 · **贡献者**: 48
+- **Star**: 2,288 · **Fork**: 109 · **开放 issue**: 554 · **贡献者**: 48
 
 ## 累计统计
 
-- **发布数**: 63 · **已合并 PR**: 480 · **开放 PR**: 21 · **已关闭 issue**: 488 · **开放 issue**: 65 · **提交数**: 908
+- **发布数**: 63 · **已合并 PR**: 480 · **开放 PR**: 22 · **已关闭 issue**: 488 · **开放 issue**: 66 · **提交数**: 908
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 3 | 0 | 3 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 11 | 1 | 7 | 0 |
-| 360d | 2025-09-15 | 7 | 37 | 14 | 20 | 22 | 66 |
+| 30d | 2026-08-11 | 0 | 0 | 4 | 0 | 4 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 12 | 1 | 8 | 0 |
+| 360d | 2025-09-15 | 7 | 37 | 15 | 20 | 23 | 66 |
 
 ## 代码规模
 
@@ -61,4 +72,4 @@ StyLua 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:54:28Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:52:09Z._

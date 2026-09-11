@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.5.2"
   latestRelease: "v2.5.2"
   latestPrerelease: "v0.1.0-alpha.3"
-  collectedAt: 2026-09-11T04:51:17Z
+  collectedAt: 2026-09-11T20:11:51Z
 timeline:
   created: 2020-12-15
   lastCommit: 2026-05-16
@@ -88,7 +88,7 @@ total:
   commit: 908
 ---
 path: /home/runner/.x-repo/github.com/JohnnyMorganz/StyLua
-collectedAt: 2026-09-11T04:51:19Z
+collectedAt: 2026-09-11T20:11:53Z
 loc:
   Rust:
     code: 15663

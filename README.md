@@ -14,13 +14,13 @@ x install StyLua
 
 ## Code insight
 
-Total: **32,041** lines of code across **478** files in the top 5 languages.
+Total: **32,916** lines of code across **481** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 15,663 | 649 | 1,897 | 37 |
-| Json | 8,107 | 0 | 0 | 10 |
-| Lua | 6,884 | 1,023 | 944 | 419 |
+| Rust | 15,857 | 657 | 1,913 | 38 |
+| Json | 8,753 | 0 | 0 | 10 |
+| Lua | 6,919 | 1,027 | 953 | 421 |
 | TypeScript | 814 | 24 | 101 | 8 |
 | JavaScript | 431 | 18 | 63 | 4 |
 
@@ -32,27 +32,27 @@ Total: **32,041** lines of code across **478** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.5.2` (2026-05-16)
-- **Last commit**: 2026-05-16
+- **Last commit**: 2026-10-03
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 2,305 · **Forks**: 115 · **Open issues**: 558 · **Contributors**: 48
+- **Stars**: 2,306 · **Forks**: 115 · **Open issues**: 558 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 480 · **Open PRs**: 27 · **Closed issues**: 488 · **Open issues**: 70 · **Commits**: 908
+- **Releases**: 63 · **Merged PRs**: 496 · **Open PRs**: 18 · **Closed issues**: 495 · **Open issues**: 63 · **Commits**: 924
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 0 | 0 | 6 | 0 | 6 | 0 |
-| last60d | 2026-08-04 | 0 | 0 | 10 | 0 | 9 | 0 |
-| 90d | 2026-07-05 | 0 | 0 | 13 | 1 | 11 | 0 |
-| last180d | 2026-04-06 | 4 | 12 | 20 | 5 | 17 | 19 |
-| 360d | 2025-10-08 | 6 | 33 | 20 | 14 | 26 | 56 |
-| last720d | 2024-10-13 | 12 | 97 | 23 | 59 | 43 | 155 |
+| 30d | 2026-09-04 | 0 | 9 | 6 | 0 | 6 | 16 |
+| last60d | 2026-08-05 | 0 | 12 | 6 | 2 | 7 | 16 |
+| 90d | 2026-07-06 | 0 | 12 | 9 | 4 | 8 | 16 |
+| last180d | 2026-04-07 | 3 | 28 | 11 | 10 | 12 | 34 |
+| 360d | 2025-10-09 | 6 | 48 | 11 | 21 | 19 | 71 |
+| last720d | 2024-10-14 | 12 | 113 | 14 | 66 | 36 | 171 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for StyLua lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T05:34:08Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:08:58Z._

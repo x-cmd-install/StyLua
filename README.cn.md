@@ -14,13 +14,13 @@ x install StyLua
 
 ## 代码洞察
 
-合计: **32,916** 行代码（覆盖前 5 种语言、共 **481** 个文件）。
+合计: **33,420** 行代码（覆盖前 5 种语言、共 **484** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 15,857 | 657 | 1,913 | 38 |
+| Rust | 16,284 | 656 | 1,964 | 38 |
 | Json | 8,753 | 0 | 0 | 10 |
-| Lua | 6,919 | 1,027 | 953 | 421 |
+| Lua | 6,996 | 1,040 | 975 | 424 |
 | TypeScript | 814 | 24 | 101 | 8 |
 | JavaScript | 431 | 18 | 63 | 4 |
 
@@ -31,40 +31,40 @@ x install StyLua
 
 ## 发布
 
-- **最新版本**: `v2.5.2` (2026-05-16)
-- **最近提交**: 2026-10-03
+- **最新版本**: `v2.6.0` (2026-10-10)
+- **最近提交**: 2026-10-10
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 2,312 · **Fork**: 116 · **开放 issue**: 558 · **贡献者**: 53
+- **Star**: 2,312 · **Fork**: 116 · **开放 issue**: 558 · **贡献者**: 54
 
 ## 累计统计
 
-- **发布数**: 63 · **已合并 PR**: 496 · **开放 PR**: 18 · **已关闭 issue**: 495 · **开放 issue**: 63 · **提交数**: 924
+- **发布数**: 64 · **已合并 PR**: 499 · **开放 PR**: 15 · **已关闭 issue**: 496 · **开放 issue**: 62 · **提交数**: 928
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 8 | 6 | 0 | 3 | 16 |
-| last60d | 2026-08-11 | 0 | 12 | 6 | 1 | 7 | 16 |
-| 90d | 2026-07-12 | 0 | 12 | 9 | 4 | 8 | 16 |
-| last180d | 2026-04-13 | 3 | 27 | 11 | 9 | 12 | 34 |
-| 360d | 2025-10-15 | 6 | 48 | 11 | 21 | 19 | 71 |
-| last720d | 2024-10-20 | 12 | 113 | 14 | 65 | 36 | 171 |
+| 30d | 2026-09-11 | 1 | 10 | 5 | 0 | 3 | 20 |
+| last60d | 2026-08-12 | 1 | 14 | 5 | 1 | 7 | 20 |
+| 90d | 2026-07-13 | 1 | 14 | 7 | 4 | 8 | 20 |
+| last180d | 2026-04-14 | 4 | 30 | 8 | 9 | 11 | 38 |
+| 360d | 2025-10-16 | 7 | 51 | 8 | 21 | 19 | 75 |
+| last720d | 2024-10-21 | 13 | 116 | 11 | 65 | 36 | 175 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [stylua-linux-aarch64-musl.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-linux-aarch64-musl.zip) | 3.1 MiB | `native/linux/arm64/musl` |
-| [stylua-linux-aarch64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-linux-aarch64.zip) | 3.1 MiB | `native/linux/arm64` |
-| [stylua-linux-x86_64-musl.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-linux-x86_64-musl.zip) | 3.3 MiB | `native/linux/x64/musl` |
-| [stylua-linux-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-linux-x86_64.zip) | 3.2 MiB | `native/linux/x64` |
-| [stylua-macos-aarch64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-macos-aarch64.zip) | 2.9 MiB | `native/darwin/arm64` |
-| [stylua-macos-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-macos-x86_64.zip) | 3.0 MiB | `native/darwin/x64` |
-| [stylua-windows-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-windows-x86_64.zip) | 2.7 MiB | `native/win/x64` |
+| [stylua-linux-aarch64-musl.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-linux-aarch64-musl.zip) | 3.2 MiB | `native/linux/arm64/musl` |
+| [stylua-linux-aarch64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-linux-aarch64.zip) | 3.2 MiB | `native/linux/arm64` |
+| [stylua-linux-x86_64-musl.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-linux-x86_64-musl.zip) | 3.3 MiB | `native/linux/x64/musl` |
+| [stylua-linux-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-linux-x86_64.zip) | 3.2 MiB | `native/linux/x64` |
+| [stylua-macos-aarch64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-macos-aarch64.zip) | 2.9 MiB | `native/darwin/arm64` |
+| [stylua-macos-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-macos-x86_64.zip) | 3.0 MiB | `native/darwin/x64` |
+| [stylua-windows-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-windows-x86_64.zip) | 2.8 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -75,4 +75,4 @@ StyLua 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261010.yml` · 2026-10-10T06:03:58Z._
+_数据快照: `data/card/261011.yml` · 2026-10-11T06:08:19Z._

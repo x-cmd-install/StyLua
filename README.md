@@ -14,13 +14,13 @@ x install StyLua
 
 ## Code insight
 
-Total: **32,916** lines of code across **481** files in the top 5 languages.
+Total: **33,420** lines of code across **484** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 15,857 | 657 | 1,913 | 38 |
+| Rust | 16,284 | 656 | 1,964 | 38 |
 | Json | 8,753 | 0 | 0 | 10 |
-| Lua | 6,919 | 1,027 | 953 | 421 |
+| Lua | 6,996 | 1,040 | 975 | 424 |
 | TypeScript | 814 | 24 | 101 | 8 |
 | JavaScript | 431 | 18 | 63 | 4 |
 
@@ -31,40 +31,40 @@ Total: **32,916** lines of code across **481** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.5.2` (2026-05-16)
-- **Last commit**: 2026-10-03
+- **Latest**: `v2.6.0` (2026-10-10)
+- **Last commit**: 2026-10-10
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 2,312 · **Forks**: 116 · **Open issues**: 558 · **Contributors**: 53
+- **Stars**: 2,312 · **Forks**: 116 · **Open issues**: 558 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 496 · **Open PRs**: 18 · **Closed issues**: 495 · **Open issues**: 63 · **Commits**: 924
+- **Releases**: 64 · **Merged PRs**: 499 · **Open PRs**: 15 · **Closed issues**: 496 · **Open issues**: 62 · **Commits**: 928
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 8 | 6 | 0 | 3 | 16 |
-| last60d | 2026-08-11 | 0 | 12 | 6 | 1 | 7 | 16 |
-| 90d | 2026-07-12 | 0 | 12 | 9 | 4 | 8 | 16 |
-| last180d | 2026-04-13 | 3 | 27 | 11 | 9 | 12 | 34 |
-| 360d | 2025-10-15 | 6 | 48 | 11 | 21 | 19 | 71 |
-| last720d | 2024-10-20 | 12 | 113 | 14 | 65 | 36 | 171 |
+| 30d | 2026-09-11 | 1 | 10 | 5 | 0 | 3 | 20 |
+| last60d | 2026-08-12 | 1 | 14 | 5 | 1 | 7 | 20 |
+| 90d | 2026-07-13 | 1 | 14 | 7 | 4 | 8 | 20 |
+| last180d | 2026-04-14 | 4 | 30 | 8 | 9 | 11 | 38 |
+| 360d | 2025-10-16 | 7 | 51 | 8 | 21 | 19 | 75 |
+| last720d | 2024-10-21 | 13 | 116 | 11 | 65 | 36 | 175 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [stylua-linux-aarch64-musl.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-linux-aarch64-musl.zip) | 3.1 MiB | `native/linux/arm64/musl` |
-| [stylua-linux-aarch64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-linux-aarch64.zip) | 3.1 MiB | `native/linux/arm64` |
-| [stylua-linux-x86_64-musl.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-linux-x86_64-musl.zip) | 3.3 MiB | `native/linux/x64/musl` |
-| [stylua-linux-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-linux-x86_64.zip) | 3.2 MiB | `native/linux/x64` |
-| [stylua-macos-aarch64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-macos-aarch64.zip) | 2.9 MiB | `native/darwin/arm64` |
-| [stylua-macos-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-macos-x86_64.zip) | 3.0 MiB | `native/darwin/x64` |
-| [stylua-windows-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.5.2/stylua-windows-x86_64.zip) | 2.7 MiB | `native/win/x64` |
+| [stylua-linux-aarch64-musl.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-linux-aarch64-musl.zip) | 3.2 MiB | `native/linux/arm64/musl` |
+| [stylua-linux-aarch64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-linux-aarch64.zip) | 3.2 MiB | `native/linux/arm64` |
+| [stylua-linux-x86_64-musl.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-linux-x86_64-musl.zip) | 3.3 MiB | `native/linux/x64/musl` |
+| [stylua-linux-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-linux-x86_64.zip) | 3.2 MiB | `native/linux/x64` |
+| [stylua-macos-aarch64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-macos-aarch64.zip) | 2.9 MiB | `native/darwin/arm64` |
+| [stylua-macos-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-macos-x86_64.zip) | 3.0 MiB | `native/darwin/x64` |
+| [stylua-windows-x86_64.zip](https://github.com/JohnnyMorganz/StyLua/releases/download/v2.6.0/stylua-windows-x86_64.zip) | 2.8 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for StyLua lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:03:58Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:08:19Z._

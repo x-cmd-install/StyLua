@@ -47,12 +47,12 @@ Total: **33,444** lines of code across **486** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 0 | 10 | 0 | 3 | 0 |
-| last60d | 2026-09-10 | 1 | 11 | 14 | 0 | 6 | 21 |
-| 90d | 2026-08-11 | 1 | 15 | 14 | 1 | 10 | 21 |
-| last180d | 2026-05-13 | 4 | 30 | 17 | 7 | 13 | 21 |
-| 360d | 2025-11-14 | 6 | 52 | 17 | 19 | 22 | 75 |
-| last720d | 2024-11-19 | 11 | 96 | 18 | 62 | 38 | 133 |
+| 30d | 2026-10-11 | 0 | 0 | 10 | 0 | 3 | 0 |
+| last60d | 2026-09-11 | 1 | 11 | 14 | 0 | 6 | 21 |
+| 90d | 2026-08-12 | 1 | 15 | 14 | 1 | 10 | 21 |
+| last180d | 2026-05-14 | 4 | 28 | 17 | 6 | 13 | 21 |
+| 360d | 2025-11-15 | 6 | 51 | 17 | 19 | 22 | 75 |
+| last720d | 2024-11-20 | 11 | 96 | 18 | 62 | 38 | 133 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for StyLua lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:38:29Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:31:33Z._

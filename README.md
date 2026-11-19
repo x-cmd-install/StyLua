@@ -37,22 +37,22 @@ Total: **33,444** lines of code across **486** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,340 · **Forks**: 129 · **Open issues**: 563 · **Contributors**: 54
+- **Stars**: 2,343 · **Forks**: 131 · **Open issues**: 564 · **Contributors**: 54
 
 ## Totals (cumulative)
 
-- **Releases**: 64 · **Merged PRs**: 500 · **Open PRs**: 24 · **Closed issues**: 496 · **Open issues**: 67 · **Commits**: 929
+- **Releases**: 64 · **Merged PRs**: 500 · **Open PRs**: 26 · **Closed issues**: 496 · **Open issues**: 68 · **Commits**: 929
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 8 | 0 | 2 | 0 |
-| last60d | 2026-09-18 | 1 | 10 | 14 | 0 | 7 | 21 |
-| 90d | 2026-08-19 | 1 | 15 | 14 | 1 | 11 | 21 |
-| last180d | 2026-05-21 | 1 | 19 | 17 | 6 | 15 | 21 |
-| 360d | 2025-11-22 | 6 | 51 | 17 | 18 | 22 | 75 |
-| last720d | 2024-11-27 | 11 | 96 | 18 | 61 | 39 | 133 |
+| 30d | 2026-10-20 | 0 | 0 | 10 | 0 | 3 | 0 |
+| last60d | 2026-09-20 | 1 | 10 | 16 | 0 | 7 | 21 |
+| 90d | 2026-08-21 | 1 | 15 | 16 | 0 | 12 | 21 |
+| last180d | 2026-05-23 | 1 | 18 | 19 | 6 | 15 | 21 |
+| 360d | 2025-11-24 | 6 | 51 | 19 | 18 | 23 | 75 |
+| last720d | 2024-11-29 | 11 | 96 | 20 | 61 | 40 | 133 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for StyLua lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:09:39Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:31:05Z._
